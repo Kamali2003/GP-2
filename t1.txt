@@ -1,1 +1,1 @@
-Python is a compiler and C is Interpreter
+Python  and C is Interpreter
